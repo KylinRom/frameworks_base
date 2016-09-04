@@ -241,6 +241,8 @@ LOCAL_SHARED_LIBRARIES := \
     libicuuc \
     libicui18n \
     libmedia \
+    libkylinutils \
+    libkylin-phoneloc-jni \
     libjpeg \
     libusbhost \
     libharfbuzz_ng \

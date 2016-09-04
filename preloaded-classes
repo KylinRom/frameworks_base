@@ -1274,6 +1274,8 @@ android.media.midi.MidiManager
 android.media.projection.MediaProjectionManager
 android.media.session.MediaSessionManager
 android.media.tv.TvInputManager
+android.kylin.location.PhoneLocation
+android.kylin.utils.KlyinUtils
 android.mtp.MtpDatabase
 android.mtp.MtpDevice
 android.mtp.MtpDeviceInfo
